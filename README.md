@@ -2,7 +2,7 @@
 
 ## This includes all of my Python solutions for projects of MITx 6.86x Machine Learning course(2020 Run) offered on edX.
 
-__Project-1__ is based on NLP where sentiment analysis is done based on the linear models using 'bag of words' as a feature.
+__Project-1__ is based on NLP where sentiment analysis is performed based on the linear models using 'bag of words' as a feature.
 
 __Project-2 & 3__ are based on Computer Vision where digit recognition is performed based on various linear models like SVM and various deep-learning based models like ANN and CNN.
 
