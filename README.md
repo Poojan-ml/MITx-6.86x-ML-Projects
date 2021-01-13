@@ -4,7 +4,7 @@
 
 [__Project-1__](https://github.com/Poojan-ml/MITx-6.86x-ML-Projects/tree/master/project1/sentiment_analysis) is based on NLP where sentiment analysis is performed based on the linear models using 'bag of words' as a feature.
 
-__Project-[2](https://github.com/Poojan-ml/MITx-6.86x-ML-Projects/tree/master/project2/mnist-1) & [3](https://github.com/Poojan-ml/MITx-6.86x-ML-Projects/tree/master/project3/mnist-2)__ are based on Computer Vision where digit recognition is performed based on various linear models like SVM and various deep-learning based models like ANN and CNN.
+__Project-[2](https://github.com/Poojan-ml/MITx-6.86x-ML-Projects/tree/master/project2/mnist-1) & [3](https://github.com/Poojan-ml/MITx-6.86x-ML-Projects/tree/master/project3/mnist-2)__ are based on Computer Vision where digit recognition is performed on mnist dataset based on various linear models like SVM and various deep-learning based models like ANN and CNN.
 
 [__Project-4__](https://github.com/Poojan-ml/MITx-6.86x-ML-Projects/tree/master/project4/netflix-collaborative%20filtering) is based on Unsupervised learning where colobarative filtering is perfomred on the data matrix containing movie ratings made by Netflix users. The goal is to predict remaining entries of movie ratings matrix which could be used to recommend unseen movies to users.
 
