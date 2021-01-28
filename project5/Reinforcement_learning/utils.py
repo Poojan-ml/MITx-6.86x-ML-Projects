@@ -58,7 +58,7 @@ def bag_of_words(texts):
     """
     dictionary = {}  # maps word to unique index
     for text in texts:
-        word_list = extract_words(text[0])
+        word_list = extract_words(text)
         for word in word_list:
             if word not in dictionary:
                 dictionary[word] = len(dictionary)
